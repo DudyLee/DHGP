@@ -12,3 +12,5 @@ Or
 - Python == 3.8
 - Pytorch == 1.10.1+cu113
 - Pytorch-Geometric == 2.0.3+cu113
+
+Update Test
